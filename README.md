@@ -23,9 +23,9 @@
 כאן תוכלו לראות את גרפי הלמידה ואת מטריצת הבלבול של המודל הטוב ביותר:
 
 
-| <img width="1189" height="390" alt="loss_accuracy_plot" src="https://github.com/user-attachments/assets/366dbe28-e4ee-470f-94fb-dafc43446957" />
- | <img width="788" height="701" alt="confusion_matrix" src="https://github.com/user-attachments/assets/cbf681ef-9954-4213-bf4c-e71b344524c6" />
- |
+<img width="1189" height="390" alt="loss_accuracy_plot" src="https://github.com/user-attachments/assets/366dbe28-e4ee-470f-94fb-dafc43446957" />
+<img width="788" height="701" alt="confusion_matrix" src="https://github.com/user-attachments/assets/cbf681ef-9954-4213-bf4c-e71b344524c6" />
+
 
 ---
 *Developed by Dmitri Antonov*
